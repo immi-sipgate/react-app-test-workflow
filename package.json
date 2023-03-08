@@ -8,7 +8,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "test": "vitest run",
-    "imrano123": "echo 'imrano123'"
+    "imrano123": "echo 'imrano123 ist der beste'"
   },
   "dependencies": {
     "react": "^18.2.0",
